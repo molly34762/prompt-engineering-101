@@ -73,8 +73,8 @@ b.fill.fore_color.rgb = CP_GREEN
 b.line.fill.background()
 
 txt(s1, "Prompt Engineering 101", 0.8, 2.4, 12, 1.1, size=54, bold=True)
-txt(s1, "How the way you ask changes everything", 0.8, 3.6, 10, 0.6,
-    size=22, italic=True, color=GRAY)
+txt(s1, "From lazy prompt to super prompt", 0.8, 3.6, 10, 0.6,
+    size=22, italic=True, color=CP_GREEN)
 txt(s1, "codepath.org", 0.8, 6.9, 4, 0.4, size=13, color=CP_GREEN)
 
 
